@@ -10970,11 +10970,3 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
-.collaboration {
-  font-size: 1.2rem; /* Base font size */
-  font-weight: 600; /* Slightly bold for emphasis */
-}
-
-.collaboration .separator {
-  font-size: 0.9rem; /* Smaller size for the 'x' */
-}
