@@ -10970,3 +10970,39 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+.highlight {
+  color: #007BFF;
+  font-weight: bold;
+}
+.conf-badge {
+  background-color: #ff5733;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 10px;
+}
+.cta {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+.cta:hover {
+  background-color: #218838;
+}
